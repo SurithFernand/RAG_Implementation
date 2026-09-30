@@ -1,0 +1,1 @@
+Implemented a Retrieval-Augmented Generation (RAG) architecture using LangChain and Groq. Hugging Face was used for generating embeddings, and the University Student Handbook was used as the knowledge source for the context.
